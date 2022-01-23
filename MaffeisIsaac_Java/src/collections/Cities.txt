@@ -1,0 +1,23 @@
+BGY, Bergamo, Lombardia, Italy, city.
+MXP, Milano, Lombardia, Italy, city.
+VCE, Venezia, Veneto, Italy, sea.
+AHO, Alghero, Sardegna, Italy, sea.
+BRI, Bari, Puglia, Italy, sea.
+BLQ, Bologna, Emilia-Romagna, Italy, city.
+CTA, Catania, Sicilia, Italy, sea.
+CAG, Cagliari, Sardegna, Italy, sea.
+FLR, Firenze, Toscana, Italy, city.
+GOA, Genova, Liguria, Italy, sea.
+NAP, Napoli, Campania, Italy, sea.
+OLB, Olbia, Sardegna, Italy, sea.
+PMO, Palermo, Sicilia, Italy, sea.
+PSA, Pisa, Toscana, Italy, city.
+FCO, Roma, Lazio, Italy, city.
+TRN, Torino, Piemonte, Italy, city.
+TPS, Trapani, Sicilia, Italy, sea.
+TRT, Trento, Trentino, Italy, mountain.
+BLZ, Bolzano, Trentino, Italy, mountain.
+CDA, Cortina d'Ampezzo, Trentino, Italy, mountain.
+SON, Sondrio, Lombardia, Italy, mountain.
+CMY, Courmayeur, Valle D'Aosta, Italy, mountain.
+BRD, Bardonecchia, Piemonte, Italy, mountain.
